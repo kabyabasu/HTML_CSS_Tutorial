@@ -3,6 +3,16 @@
 <head>
     <title>Bankai Fit WebPage</title>
     <link rel="icon" href="image/IMG_20240317_225858_305.jpg" type = image/jpg> 
+    <style>
+        body{
+            background-color: aqua;
+        }
+        h1{color: brown;}
+
+        p{color:brown;}
+
+
+    </style>
 </head>
 <body>
     <h1>This is H1 Heading Great work</h1>
@@ -96,7 +106,12 @@
     <br>
     <form action="index.php" method="POST">
         <label for="Username"> Username </label>
-        <input type="text" id="Username">
+        <input type="text" id="Username" minlength="6" maxlength="10" required>
+        <br>
+        <input type="reset">
+        <br>
+        <input type="submit" >
+
 
         
 
