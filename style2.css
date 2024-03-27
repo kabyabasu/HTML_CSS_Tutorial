@@ -1,0 +1,27 @@
+body{
+    background-color:  hsl(214, 21%, 13%);
+}
+.odd{
+    color: hsl(193, 92%, 51%);
+    font-family: 'Courier New', Courier, monospace;
+}
+.even{
+    color: hsl(82, 81%, 65%);
+}
+
+h1{
+    font-style: oblique;
+    color: rgb(231, 236, 241);
+    font-stretch: extra-expanded;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#dnaid{
+    color: hsl(0, 33%, 93%);
+    border: solid 5px hsl(0, 39%, 88%);
+}
+#dna{
+    border-style: solid;
+    border-width: 5px;
+    color: hsl(194, 32%, 92%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

@@ -1,3 +1,29 @@
 body{
     background-color: black;
 }
+h1 {
+    color: white;
+}
+h2{
+    color: whitesmoke;
+}
+
+p{
+    color: white;
+}
+ul{
+    color: white;
+}
+#ul1{
+    color: red;
+}
+#ol1{
+    color: green;
+}
+
+.odd{
+    color: red;
+}
+.even{
+    color: green;
+}
